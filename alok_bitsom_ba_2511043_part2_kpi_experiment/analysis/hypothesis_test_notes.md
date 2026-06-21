@@ -1,5 +1,5 @@
 # Hypothesis Test Notes — A/B Experiment Analysis
-**Student:** Aditya Verma | **ID:** bitsom_ba_2511044  
+**Student:** Alok Verma | **ID:** bitsom_ba_2511043
 **Dataset:** `campaign_experiment_data.xlsx`  
 **Date:** 18 June 2026
 
@@ -102,4 +102,4 @@ The 95% confidence interval for the difference in conversion rates is **[0.0154,
 5. **Missing `days_to_convert`:** 1336 records have null days_to_convert — these are non-converters and are correctly excluded from the average.
 
 ---
-*Part 2 Analysis | BITSOM BA Capstone | bitsom_ba_2511044*
+*Part 2 Analysis | BITSOM BA Capstone | bitsom_ba_2511043*
