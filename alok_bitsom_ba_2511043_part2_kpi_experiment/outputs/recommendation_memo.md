@@ -2,7 +2,7 @@
 ## Re: Campaign Experiment — Launch / No Launch Decision
 
 **To:** Senior Leadership & Product Team  
-**From:** Aditya Verma, Business Analyst | ID: bitsom_ba_2511044  
+**From:** Alok Verma, Business Analyst | ID: bitsom_ba_2511043 
 **Date:** 18 June 2026  
 **Classification:** Internal — Confidential
 
@@ -85,4 +85,4 @@ All guardrail metrics were evaluated against pre-defined safety thresholds. A si
 - No long-term retention data available — LTV impact is unquantified.
 
 ---
-*Prepared by: Aditya Verma | BITSOM BA Capstone | bitsom_ba_2511044*
+*Prepared by: Alok Verma | BITSOM BA Capstone | bitsom_ba_2511043*
